@@ -22,7 +22,8 @@ Then, edit this README.md file:
 
 ## Link to Sound File
 
-https://archive.org/details/YOUR_IDENTIFIER
+Test 1: https://archive.org/details/test-1_20210329
+Test 2: https://archive.org/details/test-1-001 
 
 ## Notes
 First day playing around with VCV Rack. Did more tests after this but the files were too big to upload. 
