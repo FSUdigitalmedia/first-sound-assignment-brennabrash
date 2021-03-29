@@ -1,4 +1,4 @@
-# VCV Rack Project Template
+# My First Two VCV Rack Tests
 
 ## How to Submit This Assignment
 
@@ -25,4 +25,4 @@ Then, edit this README.md file:
 https://archive.org/details/YOUR_IDENTIFIER
 
 ## Notes
-
+First day playing around with VCV Rack. Did more tests after this but the files were too big to upload. 
